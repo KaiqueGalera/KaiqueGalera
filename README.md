@@ -45,5 +45,5 @@
 
 ## 📈 GitHub Stats
 
-![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquediasgalera&show_icons=true&theme=tokyonight)
+![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquegalera&show_icons=true&theme=tokyonight)
 
