@@ -8,7 +8,7 @@
 
 ## 🌐 Contato
 
-- 🌎 [Site pessoal / GitHub Pages](https://kaiquediasgalera.github.io)
+- 🌎 [Site pessoal / GitHub Pages](https://kaiquegalera.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaique-dias-galera-94215b166/)
 - 📬 kaiquegalera@gmail.com
 
