@@ -1,12 +1,11 @@
-# 👋 Olá! Eu sou Kaique Dias Galera
+Kaique D. Galera
 
-🎓 Bacharel em Química, mestre em Bioquímica e doutorando com foco em jogos educativos na interface entre Química e Gestão da Qualidade.  
-💻 Também estou cursando Análise e Desenvolvimento de Sistemas.  
-🧠 Apaixonado por tecnologia e por como ela pode transformar qualquer área.  
-🏐 Gosto de esportes e competições – seja atrás da tela ou dentro de uma quadra.  
-🌱 Buscando aprimorar meus conhecimentos em Java e Programação Orientada a Objetos, especialmente com o framework Spring.
+🎓 Doutorando com foco em jogos educativos digital.  
+💻 Cursando Análise e Desenvolvimento de Sistemas.  
+🧠 Apaixonado por tecnologia, esportes e competições.  
 
-## 🌐 Contato
+
+🌐 Contato
 
 - 🌎 [Site pessoal / GitHub Pages](https://kaiquegalera.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaique-dias-galera-94215b166/)
@@ -14,7 +13,7 @@
 
 ---
 
-## ⚙️ Tecnologias que domino
+⚙️ Tecnologias que domino
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -30,7 +29,7 @@
 
 ---
 
-## 📚 Em Aprendizado
+📚 Em Aprendizado
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
